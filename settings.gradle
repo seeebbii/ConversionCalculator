@@ -1,0 +1,2 @@
+rootProject.name='ConversionCalculator'
+include ':app'
